@@ -89,21 +89,21 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://files.catbox.moe/r2i9ky.jpg"
+    "START_IMG_URL", "https://files.catbox.moe/i0qmgf.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://files.catbox.moe/r2i9ky.jpg"
+    "PING_IMG_URL", "https://files.catbox.moe/i493lf.jpg"
 )
-PLAYLIST_IMG_URL = "https://files.catbox.moe/r2i9ky.jpg"
-STATS_IMG_URL = "https://files.catbox.moe/r2i9ky.jpg"
-TELEGRAM_AUDIO_URL = "https://files.catbox.moe/r2i9ky.jpg"
-TELEGRAM_VIDEO_URL = "https://files.catbox.moe/r2i9ky.jpg"
-STREAM_IMG_URL = "https://files.catbox.moe/r2i9ky.jpg"
-SOUNCLOUD_IMG_URL = "https://files.catbox.moe/r2i9ky.jpg"
-YOUTUBE_IMG_URL = "https://files.catbox.moe/r2i9ky.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/r2i9ky.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/r2i9ky.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/r2i9ky.jpg"
+PLAYLIST_IMG_URL = "https://files.catbox.moe/iiw5rn.jpg"
+STATS_IMG_URL = "https://te.legra.ph/file/62c76ac2095332a0ede75.jpg"
+TELEGRAM_AUDIO_URL = "https://te.legra.ph/file/923c1faac33d8c70335dc.jpg"
+TELEGRAM_VIDEO_URL = "https://te.legra.ph/file/923c1faac33d8c70335dc.jpg"
+STREAM_IMG_URL = "https://te.legra.ph/file/923c1faac33d8c70335dc.jpg"
+SOUNCLOUD_IMG_URL = "https://te.legra.ph/file/affe0afec5c7ad63676a4.jpg"
+YOUTUBE_IMG_URL = "https://files.catbox.moe/xeycgh.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/xeycgh.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/xeycgh.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/xeycgh.jpg"
 
 
 def time_to_seconds(time):
